@@ -1,4 +1,7 @@
-cat-dreams-institute
+The Cat Dreams Institute
 ====================
 
-The Institute of Cat Dreams
+A system for transmitting the healing gaze of felines to humans.
+
+Not for pregnant women.
+
